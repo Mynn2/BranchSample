@@ -1,3 +1,4 @@
 # BranchSample
 
-Github Flow Practice. BranchSample
+Github Flow Practice. 
+In the Branch of BranchSample
